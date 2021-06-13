@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color:mediumpurple;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color:violet;
+    font-size:50px;
+    color:whitesmoke;
+    margin-bottom: 30px;
+}
+
+input {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color:lightcoral;
+    border: solid;
+    font-weight: bold;
+}
+
+button {
+    margin-bottom: 20px;
+    background-color: magenta;
+    font-weight: bold;
+}
+
+hr {
+    margin-bottom: 20px;
+}
